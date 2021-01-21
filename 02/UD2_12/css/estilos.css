@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+}
+ ul, ol {list-style:none;}
+ a {text-decoration:none; color: black;}
+ @font-face {
+    font-family: 'FontAwesome'; 
+    src:url('../fonts/fontawesome/webfonts/fa-solid-900.woff');
+ }
+
+#content { background-color:grey; }
+#content #izq { width:30%; float:left; background-color:grey;padding:20px;}
+#content #der { width:70%; float:right; background-color:lightyellow;}
+
+#content #izq .dato { padding:20px;}
+#content #izq .dato span {font-weight:bold; letter-spacing:5px;}
+#content #izq .dato:before {
+	position:relative;
+	font-family: 'FontAwesome'; 
+	width: 30px;
+	height:30px;
+	font-size:1.2em;
+	text-align:center;
+	line-height:30px;
+	color:white;
+	border:1px solid white;
+	border-radius:50px;
+	padding:5px;
+	
+	top:0px;
+	left:-15px;
+	
+}
+#content #izq .direccion:before{
+			content:'\f041';	
+}
+#content #izq .telefono:before{
+			content:'\f10b';
+}

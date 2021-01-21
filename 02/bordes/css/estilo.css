@@ -1,0 +1,37 @@
+body {color:red;}
+
+div {
+	width:120px;
+	height:120px;
+	margin-bottom: 10px;
+	display: inline-block;
+	/*
+	border-color: red;
+	border-style: solid;
+	border-width:10px;
+	*/
+	border: solid black 10px; 
+	border-top-style: dotted;
+	border-bottom-style : dotted;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+div:nth-child(2n)  {
+	background-image :url('../images/foto1.jfif');
+
+}
+
+div:nth-child(2n+1){
+	background-image :url('../images/foto3.jfif');
+	
+}	
+
+#uno{
+	background-image :url('../images/foto1.jfif'),url('../images/foto3.jfif') ;
+	background-size: 25%;
+	/* background-repeat:no-repeat; */
+	background-position: left top, left bottom, right top, right bottom;
+	
+	
+}
+

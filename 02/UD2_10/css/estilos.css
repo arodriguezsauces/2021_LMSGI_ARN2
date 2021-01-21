@@ -1,0 +1,37 @@
+h1 {
+	text-align: center;
+	 font-family: 'Goldman-Bold'; 
+}
+	
+table {
+		
+		border-collapse: separate;
+		border-spacing: 10px 30px;
+		margin: auto;
+		width: 75%;
+}
+
+td, th {
+	border: 1px solid black;
+	width: 16%;
+	vertical-align:middle;
+	}
+
+tbody tr:nth-child(2n+1) {
+	background-color: cyan;
+	 font-family: 'Goldman'; 
+}
+
+tbody tr:nth-child(2n) {
+	background-color: lightblue;
+	 font-family: 'Goldman-Bold'; 
+}
+
+tbody th:hover, tbody td:hover{
+	background-color:#A64B00;
+}
+
+
+
+
+	

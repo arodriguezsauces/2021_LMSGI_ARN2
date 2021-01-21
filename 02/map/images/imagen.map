@@ -1,0 +1,11 @@
+<img src="[imagen] (importada)" width="750" height="250" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:amor -->
+<area shape="rect" coords="52,36,177,213" alt="Página oficial de HTML" href="http://#" />
+<area shape="circle" coords="274,120,75" alt="Página oficial de Java Script" href="http://#" />
+</map>

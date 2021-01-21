@@ -1,0 +1,21 @@
+	@font-face {
+		font-family: Brightons, cursive;
+		src: url(../font/brightons/Brightons.ttf);
+		}
+		
+		@font-face {
+			font-family: Josefina;
+			src: url(../font/Josefin_Sans/JosefinSans-VariableFont_wght.ttf);
+		}
+		
+		div {
+		 font-size: 1.5em;
+		 margin-bottom:10px;
+		}
+		div:nth-child(1){
+		 font-family: Brightons, cursive;			
+		}
+			
+			div:nth-child(2){
+			font-family: Josefina, arial;
+		   }
