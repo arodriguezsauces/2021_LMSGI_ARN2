@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Radio Salix: IES los Sauces</title>
+		<link>http://ieslossauces.centros.educa.jcyl.es/sitio/index.cgi?wid_seccion=51</link>
+		<description>
+			<![CDATA[   
+				<h1>Radio Salix: la radio de IES los Sauces</h1>
+			]]>
+		</description>
+		<item>
+			<title>Onda Salix nº 1</title>
+			<link>https://www.mixcloud.com/ondasalix/no1-para-que-te-enteres-onda-salix/</link>
+			<description>
+			<![CDATA[
+			  <h2>Onda Salix estrena su programa "Para que te enteres", con buena música y buen rollo.</h2>
+			  <p>Podrás escuchar 3 secciones de lo más interesante:</p>
+			  <ul>
+					<li> En ¿Cuál es el siguiente número? La maravillosa sucesión de Fibonacci</li>
+					<li>En "Unos y Ceros", ¿es lo mismo wifi que internet?</li>
+					<liDía especial 25 N. ¿Qué sabes y qué opinas de ese día? Yolanda, trabajadora social de la Cruz Roja te saca de dudas.></li>
+					<li>El proyecto Erasmus K3 en el que el centro está participando.</li>
+			  </ul>
+			  <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fondasalix%2Fno1-para-que-te-enteres-onda-salix%2F" frameborder="0" ></iframe>
+			]]>
+			</description>
+			
+		</item>
+	</channel>
+</rss>
